@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amruth" target="blank"><img src="https://img.shields.io/twitter/follow/amruth?logo=twitter&style=for-the-badge" alt="amruth" /></a> </p>
 
-- 🔭 I’m currently working on **Flight path Optimization with AI**
+- 🔭 I’m currently working on ** Ai-command-center **
 
 - 🌱 I’m currently learning **MERN Stack**
 
