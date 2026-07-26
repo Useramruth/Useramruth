@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react Android iOS**
 
-- 🌐Founder of ** Cognivio **
+- 🌐Founder of Cognivio
 
 - 📫 How to reach me **amruthsai1130@gmail.com**
 
